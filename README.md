@@ -1,5 +1,5 @@
 # 🐶 Vanlalhmangaihsanga
-<p align = "center">**`Disciple of AIDS(AI and Data Structures) and CyberSecurity`**</p>
+<p align = "center"><strong><code></strong>**`Disciple of AIDS(AI and Data Structures) and CyberSecurity`**</code></strong></p>
 
 <!-- Social icons section -->
 <p align="center">
