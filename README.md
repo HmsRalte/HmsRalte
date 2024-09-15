@@ -1,5 +1,5 @@
 # :trollface: Vanlalhmangaihsanga
-**`Disciple of AIDS(AI and Data Structures) and CyberSeecurity**
+**`Disciple of AIDS(AI and Data Structures) and CyberSeecurity`**
 
 <!-- Social icons section -->
 <p align="center">
