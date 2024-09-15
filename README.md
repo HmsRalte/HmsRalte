@@ -26,9 +26,10 @@
 </p>
 
 ---
-### 💾Languages and Tools💻
+
 
 <div align="center">
+  ### 💾Languages and Tools💻
   <a href="https://git-scm.com/">
     <img alt="Git" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
