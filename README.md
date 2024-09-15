@@ -1,5 +1,7 @@
 # 🐶 Vanlalhmangaihsanga
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/pO4UHglOY2vII" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dancing-adventure-time-bmo-pO4UHglOY2vII"> </a></p>
+<p align="center">
+  <img alt="Dancing BMO" src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200px" />
+</p>
 <p align="center"><strong><code>Disciple of AIDS(AI and Data Structures) and CyberSecurity.</code></strong></p>
 <p align="center"><strong><code>I also watch CP(Cyberpunk) and I try to help keep systems cool with ICE (Intrusion Countermeasure Electronics) strategies.</code></strong></p>
 <p align="center"><strong><code>Encouraging others to a little bit of DDoS (Daily Dose of Security)</code></strong></p>
