@@ -1,6 +1,6 @@
 # 🐶 Vanlalhmangaihsanga
 <p align="center">
-  <img alt="Excited" width="200px" src="https://media.giphy.com/media/3o7btQAV2APkAw5WzC/giphy.gif" />
+  <img alt="Excited" width="200px" src="https://giphy.com/gifs/dancing-adventure-time-bmo-pO4UHglOY2vII" />
 </p>
 <p align="center"><strong><code>Disciple of AIDS(AI and Data Structures) and CyberSecurity.</code></strong></p>
 <p align="center"><strong><code>I also watch CP(Cyberpunk) and I try to help keep systems cool with ICE (Intrusion Countermeasure Electronics) strategies.</code></strong></p>
