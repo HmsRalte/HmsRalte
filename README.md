@@ -1,6 +1,14 @@
 # 🐶 Vanlalhmangaihsanga
 <p align="center">
+  <img alt="Fun GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGhpbHpma2UxYnR1M2FkaDZxZmh2dmxobXpoZTJiYTFkeDViczBpYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RiykPw9tgdOylwFgUe/giphy.gif" width="300px" />
+</p>
+
+<p align="left">
   <img alt="Dancing BMO" src="https://media.giphy.com/media/pO4UHglOY2vII/giphy.gif" width="200px" />
+</p>
+
+<p align="right">
+  <img alt="Jane Fonda" src="https://media.giphy.com/media/105D9aefNvprfG/giphy.gif" width="300px" />
 </p>
 <p align="center"><strong><code>Disciple of AIDS(AI and Data Structures) and CyberSecurity.</code></strong></p>
 <p align="center"><strong><code>I also watch CP(Cyberpunk) and I try to help keep systems cool with ICE (Intrusion Countermeasure Electronics) strategies.</code></strong></p>
