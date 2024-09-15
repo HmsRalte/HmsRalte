@@ -64,12 +64,10 @@
     <img alt="Bash" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </a>
 </div>
-<p align="left">
-  <img alt="Jane Fonda" src="https://media.giphy.com/media/105D9aefNvprfG/giphy.gif" width="300px" />
-</p>
-<p align="right">
-  <img alt="Fun GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFiMXZqdnZkb2Z4bnZlaDN3eHE1NXVkbTN2eWsyZGt3OG1iMDIzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="280px" />
-</p>
-<p align="center">
-  <img alt="Fun GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NleHlxOGl2YWhsdGkwazB0a2E3b2swdDBwNml1ZHRwNTA2N2VkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="280px" />
-</p>
+### Life Cycle
+
+<div align="center">
+  <img alt="Jane Fonda" src="https://media.giphy.com/media/105D9aefNvprfG/giphy.gif" width="300px" style="margin: 0 10px;" />
+  <img alt="Fun GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnFiMXZqdnZkb2Z4bnZlaDN3eHE1NXVkbTN2eWsyZGt3OG1iMDIzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gEKz4VLX7fQlsl8SFE/giphy.gif" width="280px" style="margin: 0 10px;" />
+  <img alt="Fun GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NleHlxOGl2YWhsdGkwazB0a2E3b2swdDBwNml1ZHRwNTA2N2VkYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="280px" style="margin: 0 10px;" />
+</div>
