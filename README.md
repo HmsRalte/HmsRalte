@@ -64,9 +64,8 @@
     <img alt="Bash" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   </a>
 </div>
-### Life Cycle
 
-### GIFs in One Line
+### Life Cycle
 
 <div align="center">
   <img alt="Jane Fonda" src="https://media.giphy.com/media/105D9aefNvprfG/giphy.gif" width="250px" style="margin: 0 10px;" />
