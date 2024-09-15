@@ -6,7 +6,7 @@
 <p align="center"><strong><code>I also watch CP(Cyberpunk) and I try to help keep systems cool with ICE (Intrusion Countermeasure Electronics) strategies.</code></strong></p>
 <!--<p align="center"><strong><code>Encouraging others to a little bit of DDoS (Daily Dose of Security)</code></strong></p>-->
 <!--<p align="center"><strong><code>Specializing in clean API integrations with SOAP (Simple Object Access Protocol) – the only SOAP you actually want to deal with.</code></strong></p>-->
-<p align="center"><strong><code>"Making sure your packets always SYN (Synchronize), without committing a SIN.</code></strong></p>
+<p align="center"><strong><code>Making sure your packets always SYN, without committing a SIN.</code></strong></p>
 <p align="center"><strong><code>I aim to PWN (Perfect Web Navigation), without the trash talk(irl and ingame).</code></strong></p>
 <p align="center"><strong><code>I help transform POS (Point of Sale) systems into something far from a POS.</code></strong></p>
 <p align="center"><strong><code>Making websites beautiful with CSS (Cascading Style Sheets) without the CSS (Confusing Style Syntax) headaches.</code></strong></p>
