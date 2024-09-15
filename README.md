@@ -26,41 +26,43 @@
 </p>
 
 ---
-
 ### Languages and Tools
-<a href="https://git-scm.com/">
-  <img alt="Git" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
 
-<a href="https://www.linux.org/">
-  <img alt="Linux" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
+  <a href="https://git-scm.com/">
+    <img alt="Git" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img alt="HTML" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-</a>
+  <a href="https://www.linux.org/">
+    <img alt="Linux" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img alt="CSS" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img alt="HTML" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img alt="JavaScript" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img alt="CSS" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  </a>
 
-<a href="https://www.cplusplus.com/">
-  <img alt="C++" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img alt="JavaScript" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  </a>
 
-<a href="https://www.python.org/">
-  <img alt="Python" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-</a>
+  <a href="https://www.cplusplus.com/">
+    <img alt="C++" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  </a>
 
-<a href="https://github.com/">
-  <img alt="GitHub" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-</a>
+  <a href="https://www.python.org/">
+    <img alt="Python" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
 
-<a href="https://www.gnu.org/software/bash/">
-  <img alt="Bash" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</a>
+  <a href="https://github.com/">
+    <img alt="GitHub" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  </a>
+
+  <a href="https://www.gnu.org/software/bash/">
+    <img alt="Bash" width="40px" style="padding:10px; background-color:white; border-radius:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  </a>
+</div>
 
